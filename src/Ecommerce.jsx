@@ -1,6 +1,6 @@
 import groot from './assets/groot.jpg'
 
-const Titulo = () => {
+const Ecommerce = () => {
 
     return(
         <div>
@@ -11,4 +11,4 @@ const Titulo = () => {
     )
 }
 
-export default Titulo
+export default Ecommerce

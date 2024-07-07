@@ -1,11 +1,11 @@
 import './NavBar.css'
 import CarWidget from './CarWidget'
-import Titulo from '../../Titulo.jsx'
+import Ecommerce from '../../Ecommerce.jsx'
 
 const NavBar = () => {
   return (
     <nav className="navbar">
-      <Titulo />
+      <Ecommerce />
         <ul>
             <li> Comics </li>
             <li> Funkos </li>
