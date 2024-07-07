@@ -1,7 +1,7 @@
 import { useState } from "react"
-import Contador from "./Contador"
+import Contador from "./VistaContador"
 
-const EjemploContador = () => {
+const LogicaContador = () => {
 
    const [ contador, setContador ] = useState (0)
 
@@ -24,4 +24,4 @@ const EjemploContador = () => {
   )
 }
 
-export default EjemploContador
+export default LogicaContador
