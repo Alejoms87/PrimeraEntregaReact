@@ -2,7 +2,7 @@
 const Contador = ({contador, aumentarContador, disminuirContador}) => {
   return (
      <div>
-        <p> Contador: { contador } </p>
+        <p> Productos en el carrito: { contador } </p>
         <br />
         <button onClick= {aumentarContador}> Sumar Producto + </button>
         <br />
